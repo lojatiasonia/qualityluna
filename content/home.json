@@ -5,10 +5,12 @@
     "autoplay": 9000,
     "slides": [
       {
-        "img": "/img/uploads/rect89.png"
+        "img": "/img/uploads/banner_site-1.png",
+        "link": "https://www.qualityluna.com.br/kit-reparador-de-pontas-crystal-shine-30ml-2-unidades"
       },
       {
-        "img": "/img/uploads/banner2.png"
+        "img": "/img/uploads/lunahomemike.jpeg",
+        "link": "https://www.qualityluna.com.br/pagina/analise-capilar"
       }
     ]
   },
