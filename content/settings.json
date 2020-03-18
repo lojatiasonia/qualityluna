@@ -1,22 +1,22 @@
 {
-  "store_id": 1074,
-  "name": "Quality luna",
   "domain": "storefront-demo.e-com.plus",
-  "short_name": "MyShop",
-  "description": "My PWA Shop",
-  "primary_color": "#383d44",
-  "secondary_color": "#7F7F7F",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#f03838",
   "theme": {
     "bootswatch": "_"
   },
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Quality Luna",
+  "short_name": "Quality Luna",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#000000",
+  "icon": "/img/uploads/favicon.png",
+  "store_id": 1074,
+  "description": "Descubra o que os Produtos QualityLuna podem fazer por seus cabelos! #qualityluna",
+  "large_icon": "/img/large-icon.png"
 }
