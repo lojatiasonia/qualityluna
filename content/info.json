@@ -1,15 +1,16 @@
 {
   "shipping": {
-    "show": false,
-    "text": "Entregamos para todo o Brasil"
+    "show": true,
+    "text": "Frete Grátis. <small>Conheça as regras</small>"
   },
   "installments": {
-    "show": false,
-    "text": "Parcele sem juros"
+    "show": true,
+    "text": "Loja Segura"
   },
   "exchange": {
-    "show": false,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "show": true,
+    "text": "Atendimento por Whatsapp",
+    "link": "https://web.whatsapp.com/send?phone=%2B557734246689"
   },
   "promo": {
     "show": false,
