@@ -10,3 +10,16 @@
   background:#fff !important;
   border: none;
 }
+@media (max-width: 767px) {
+  .hidden-xs {
+    display: none !important;
+  }
+}
+@media (min-width: 768px) {
+  .visible-xs {
+    display: none !important;
+  }
+}
+.blog {
+  padding-bottom: 2rem;
+}
