@@ -5,13 +5,46 @@
   },
   "links_1": {
     "list_pages": true,
-    "title": "Pages",
+    "title": "Páginas",
     "list": []
   },
   "links_2": {
-    "list_categories": true,
-    "title": "Categories",
-    "list": []
+    "list_categories": false,
+    "title": "Categorias",
+    "list": [
+      {
+        "text": "Produtos",
+        "url": "https://www.qualityluna.com.br/luna-system/"
+      },
+      {
+        "text": "Progressivas",
+        "url": "https://www.qualityluna.com.br/alisamento/"
+      },
+      {
+        "text": "Quality Cosméticos",
+        "url": "https://www.qualityluna.com.br/quality-cosmeticos/"
+      },
+      {
+        "url": "https://www.qualityluna.com.br/hidratacao-luna-system/",
+        "text": "Hidratação"
+      },
+      {
+        "text": "Cabelos",
+        "url": "https://www.qualityluna.com.br/produtos-para-cabelo-luna/"
+      },
+      {
+        "url": "https://www.qualityluna.com.br/tratamento/",
+        "text": "Tratamento"
+      },
+      {
+        "text": "Kits Prontos",
+        "url": "https://www.qualityluna.com.br/kits-prontos-quality-luna/"
+      },
+      {
+        "text": "Shampoo",
+        "url": "https://www.qualityluna.com.br/shampoo/"
+      }
+    ]
   },
   "contacts": {
     "title": "Contacts",
