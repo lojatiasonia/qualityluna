@@ -47,7 +47,7 @@
     ]
   },
   "contacts": {
-    "title": "Contacts",
+    "title": "Contatos",
     "phone_wpp": true,
     "socials": true,
     "email": true,
