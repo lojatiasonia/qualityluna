@@ -1544,12 +1544,6 @@
     </url>
   
     <url>
-      <loc>https://storefront-demo.e-com.plus/manutencao-luna-system</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://storefront-demo.e-com.plus/shampoo</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1580,12 +1574,6 @@
     </url>
   
     <url>
-      <loc>https://storefront-demo.e-com.plus/finalizador</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://storefront-demo.e-com.plus/luna-cauter</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1604,25 +1592,7 @@
     </url>
   
     <url>
-      <loc>https://storefront-demo.e-com.plus/luna-relax</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://storefront-demo.e-com.plus/luna-manicure</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://storefront-demo.e-com.plus/intensificador</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://storefront-demo.e-com.plus/tonalizantes</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -1653,12 +1623,6 @@
   
     <url>
       <loc>https://storefront-demo.e-com.plus/cacho-forte-quality-cosmeticos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://storefront-demo.e-com.plus/produtos-para-escova-progressiva</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -1713,12 +1677,6 @@
   
     <url>
       <loc>https://storefront-demo.e-com.plus/luna-rci</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://storefront-demo.e-com.plus/luna-freestyle</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -1785,18 +1743,6 @@
   
     <url>
       <loc>https://storefront-demo.e-com.plus/hidratacao-capilar</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://storefront-demo.e-com.plus/cabelos-danificados</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://storefront-demo.e-com.plus/cabelos-cacheados-ou-ondulados</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -1917,12 +1863,6 @@
   
     <url>
       <loc>https://storefront-demo.e-com.plus/oleos-de-tratamento-quality-cosmeticos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://storefront-demo.e-com.plus/black-friday</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
