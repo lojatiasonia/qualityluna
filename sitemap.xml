@@ -110,12 +110,6 @@
     </url>
   
     <url>
-      <loc>https://storefront-demo.e-com.plus/plus-intensive-reconstrutor-250ml</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://storefront-demo.e-com.plus/luna-frizzy-leave-in-umidificante-200ml</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1418,12 +1412,6 @@
     </url>
   
     <url>
-      <loc>https://storefront-demo.e-com.plus/produto-teste</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://storefront-demo.e-com.plus/ox-emulsion-10-vol-agua-oxigenada-para-coloracao-ou-tonalizante-120ml</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1970,6 +1958,12 @@
     </url>
   
     <url>
+      <loc>https://storefront-demo.e-com.plus/admin/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
       <loc>https://storefront-demo.e-com.plus/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -1985,12 +1979,6 @@
       <loc>https://storefront-demo.e-com.plus/errors/500</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://storefront-demo.e-com.plus/admin/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
     </url>
   
 </urlset>
