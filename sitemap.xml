@@ -1844,6 +1844,60 @@
     </url>
   
     <url>
+      <loc>https://storefront-demo.e-com.plus/manutencao-luna-system</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://storefront-demo.e-com.plus/finalizador</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://storefront-demo.e-com.plus/luna-relax</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://storefront-demo.e-com.plus/intensificador</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://storefront-demo.e-com.plus/tonalizantes</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://storefront-demo.e-com.plus/produtos-para-escova-progressiva</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://storefront-demo.e-com.plus/luna-freestyle</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://storefront-demo.e-com.plus/cabelos-danificados</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://storefront-demo.e-com.plus/cabelos-cacheados-ou-ondulados</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://storefront-demo.e-com.plus/cronograma-capilar</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
